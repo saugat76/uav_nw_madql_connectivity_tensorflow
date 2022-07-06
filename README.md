@@ -15,6 +15,7 @@ conda install gym
 conda install pip
 pip install tensorflow-gpu
 conda install matplotlib
+conda install -c anaconda cudatoolkit
 ```
 ## 4) Open your IDE through the conda environment
 ### Preferred Method
