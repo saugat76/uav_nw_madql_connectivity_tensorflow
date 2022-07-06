@@ -2,7 +2,7 @@
 Allocation of the resource blocks to the ground user for distributed UAV based cellular system with only the transfer of reward values. Additional improvement over the other setup by the use of Deep Q Learning approach.
 
 # Dependencies installation and steps to run on a Conda Environment
-## 1) Installation of Anaconda / Ommit this step in already installed 
+## 1) Installation of Anaconda / Ommit this step if already installed 
 Install annconda on your machine. For further information follow this link https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
 ## 2) Open anaconda prompt and create a new conda environment with python 3.10. After that activate the environment
 ```conda create -n uavenv python==3.10
