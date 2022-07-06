@@ -28,4 +28,5 @@ You can also open up your own IDE and change the interpreter setting to the pyth
 Inside visual studio code click on "New File" and in file and inside explorer tab click on "Clone Repository".
 Enter the URL of this git repo to run this code.
 https://github.com/saugat76/UAV_SubBand_Allocation_DQN.
-## 6) Adjust the memory limit and the configuration of GPU according to you system capability.
+## 6) Adjust the memory limit 
+Adjust the memory limit and the configuration of GPU according to you system capability.
