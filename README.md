@@ -31,3 +31,6 @@ Enter the URL of this git repo to run this code.
 https://github.com/saugat76/UAV_SubBand_Allocation_DQN.
 ## 6) Adjust the memory limit 
 Adjust the memory limit and the configuration of GPU according to you system capability.
+
+
+## NOTE : These code use tensorflow and CPU for the training process so is comparatively slow compared with the newer deployement using pytorch library.
